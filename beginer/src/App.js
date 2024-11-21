@@ -5,6 +5,7 @@ function App() {
   //_JSX: cú pháp tương tự html
   return (
     <div className='App'>
+      <h1>Created by Nhan</h1>
       <header className='App-header'>
         <img src={logo} className='App-logo' alt='logo' />
         <p>
